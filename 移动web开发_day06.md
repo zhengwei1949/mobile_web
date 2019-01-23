@@ -2,7 +2,7 @@
 
 ---
 
-​	了解less语法，使用bootstrap工具完成微金所
+​	了解less语法，使用bootstrap工具完成微金所 
 
 ## 1.0 Less的使用
 
