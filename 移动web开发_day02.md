@@ -90,7 +90,7 @@
 
 
 
-![banner](images\banner.jpg)
+![banner](images/banner.jpg)
 
 
 
@@ -102,7 +102,7 @@
 
 
 
-![nav-site](images\nav-site.jpg)
+![nav-site](images/nav-site.jpg)
 
 
 
@@ -288,7 +288,7 @@
 
 ### 秒杀专栏
 
-![fast-skill](images\fast-skill.jpg)
+![fast-skill](images/fast-skill.jpg)
 
 #### 页面布局
 

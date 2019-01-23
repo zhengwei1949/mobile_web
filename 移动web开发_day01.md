@@ -5,7 +5,7 @@
 
 #### 屏幕尺寸（英寸）
 
-​	![ping](images\ping.jpg)
+​	![ping](images/ping.jpg)
 
 #### 长度单位
 
@@ -30,7 +30,7 @@ __结论： 在移动端不同的产品中, 分辨率有不同的体现，比如
 
 ​	设备独立像素（又称设备无关像素 Device Independent Pixels 、密度独立性 Density Independent或设备独立[像素](https://baike.baidu.com/item/%E5%83%8F%E7%B4%A0)，简称DIP或DP）是一种物理[测量单位](https://baike.baidu.com/item/%E6%B5%8B%E9%87%8F%E5%8D%95%E4%BD%8D/7854563)，基于计算机控制的坐标系统和抽象像素（虚拟像素），由底层系统的程序使用，转换为物理[像素](https://baike.baidu.com/item/%E5%83%8F%E7%B4%A0)的应用
 
-![independentPX](images\independentPX.png)
+![independentPX](images/independentPX.png)
 
 
 
@@ -87,7 +87,7 @@ ghostlab =》 在课程中提到，这款软件收费，但是可以卸载重装
 
 使用浏览器自带的移动端模拟器调试，能解决日常80%以上的bug
 
-![moniqi](images\moniqi.jpg)
+![moniqi](images/moniqi.jpg)
 
 
 
@@ -146,7 +146,7 @@ ghostlab =》 在课程中提到，这款软件收费，但是可以卸载重装
 
 ### 新建项目文件夹和文件
 
-​	![item](images\item.jpg)
+​	![item](images/item.jpg)
 
 
 
